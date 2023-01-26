@@ -9061,7 +9061,7 @@
           "name": "Bitindi Chain",
           "categories": ["blockchain"],
           "active": true,
-          "platform": { "name": "", "address": "", "type": "" },
+          "platform": { "name": "", "address": "0x77fc65deda64f0cca9e3aea7b9d8521f4151882e", "type": "" },
           "description": "",
           "links": {
               "website": "",
@@ -11810,6 +11810,11 @@
             "id": "bithash",
             "name": "BitHash",
             "image_url": "https://assets.coingecko.com/markets/images/171/small/bithash.png?1562037390"
+        }, 
+        {
+            "id": "bitindi-chain",
+            "name": "Bitindi",
+            "image_url": "https://assets.coingecko.com/coins/images/27811/small/160.png?1665906992"
         }
     ]
 }
