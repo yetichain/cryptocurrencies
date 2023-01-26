@@ -9056,6 +9056,26 @@
           "id": "bep20|0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
           "funds": []
       },
+        {
+          "code": "BNI",
+          "name": "Bitindi Chain",
+          "categories": ["blockchain"],
+          "active": true,
+          "platform": { "name": "", "address": "", "type": "" },
+          "description": "",
+          "links": {
+              "website": "",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "",
+              "github": "",
+              "reddit": "",
+              "telegram": ""
+          },
+          "rating": "",
+          "id": "bep20|0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
+          "funds": []
+      },
       {
           "code": "VALUE",
           "name": "Value DeFi",
