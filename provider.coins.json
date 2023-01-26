@@ -41196,6 +41196,12 @@
             "code": "cos",
             "name": "Contentos",
             "external_id": { "coingecko": "contentos", "cryptocompare": "COS" }
+        },
+        {
+            "id": "bep20|0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
+            "code": "bni",
+            "name": "Bitindi Chain",
+            "external_id": { "coingecko": "bitindi-chain"}
         }
     ]
 }
