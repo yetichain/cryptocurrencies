@@ -4015,6 +4015,30 @@
             "funds": []
         },
         {
+            "code": "BNI",
+            "name": "Bitindi Chain",
+            "categories": ["blockchain"],
+            "active": true,
+            "platform": {
+                "name": "",
+                "address": "",
+                "type": ""
+            },
+            "description": "Bitindi Chain's main goal is to create a user-centric sustainability-driven ecosystem, and it is able to achieve this by having sustainability embedded inside the Bitindi Chain consensus mechanism and runtime logic. Thus, making sure that sustainable participation in the network or in the real world is highly incentivized.",
+            "links": {
+                "website": "https://www.bitindi.com",
+                "whitepaper": "https://www.docs.bitindi.com",
+                "guide": "https://www.docs.bitindi.com",
+                "twitter": "https://twitter.com/bitindichain",
+                "github": "https://github.com/bitindi",
+                "reddit": "",
+                "telegram": "https://t.me/bitindi/"
+            },
+            "rating": "",
+            "id": "bep20|0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
+            "funds": []
+        },
+        {
             "code": "ROOM",
             "name": "OptionRoom",
             "categories": ["oracles", "prediction_markets"],
