@@ -212,6 +212,12 @@
             "external_id": { "coingecko": "0xmonero" }
         },
         {
+            "id": "bep20|0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
+            "code": "bni",
+            "name": "bitindi-chain",
+            "external_id": { "coingecko": "bitindi-chain" }
+        },
+        {
             "id": "bep20|0x016c285d5b918b92aa85ef1e147498badfe30d69",
             "code": "100x",
             "name": "100x Coin",
